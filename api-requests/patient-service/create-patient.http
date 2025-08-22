@@ -1,0 +1,12 @@
+### POST request to create a new patient entity
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Freddie Mason",
+  "address": "No 21, Bridge Street, Lowell, Massachusetts",
+  "email": "",
+  "dateOfBirth": "1950-11-11",
+  "registeredDate": "2020-08-11"
+}
+###
