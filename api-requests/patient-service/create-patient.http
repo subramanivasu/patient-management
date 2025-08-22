@@ -5,8 +5,8 @@ Content-Type: application/json
 {
   "name": "Freddie Mason",
   "address": "No 21, Bridge Street, Lowell, Massachusetts",
-  "email": "",
+  "email": "fredmason2@gmail.com",
   "dateOfBirth": "1950-11-11",
-  "registeredDate": "2020-08-11"
+  "registeredDate": "2020-09-11"
 }
 ###
