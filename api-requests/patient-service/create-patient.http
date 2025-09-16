@@ -3,10 +3,10 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Donald Trump",
-  "address": "No 24, Bridge Street, Lowell, Massachusetts",
-  "email": "magatrump@gmail.com",
-  "dateOfBirth": "1951-11-11",
-  "registeredDate": "2020-09-12"
+  "name": "Barron Trump",
+  "address": "No 412, Madison Street, Tucson, Arizona",
+  "email": "barrontrump@gmail.com",
+  "dateOfBirth": "2003-11-11",
+  "registeredDate": "2022-09-12"
 }
 ###
