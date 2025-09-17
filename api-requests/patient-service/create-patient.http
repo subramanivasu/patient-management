@@ -3,10 +3,10 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Barron Trump",
-  "address": "No 412, Madison Street, Tucson, Arizona",
-  "email": "barrontrump@gmail.com",
-  "dateOfBirth": "2003-11-11",
-  "registeredDate": "2022-09-12"
+  "name": "Robert Lewandowski",
+  "address": "No 321, Brazen Street, Montana",
+  "email": "lewandowskibro@gmail.com",
+  "dateOfBirth": "1988-11-11",
+  "registeredDate": "2023-09-21"
 }
 ###
