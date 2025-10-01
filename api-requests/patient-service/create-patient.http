@@ -1,12 +1,13 @@
 ### POST request to create a new patient entity
-POST http://localhost:4000/patients
+POST http://localhost:4004/api/patients
 Content-Type: application/json
+Authorization: Bearer {{token}}
 
 {
-  "name": "Robert Lewandowski",
-  "address": "No 321, Brazen Street, Montana",
-  "email": "lewandowskibro@gmail.com",
+  "name": "Robert Lewandowski Jr",
+  "address": "No 324, Brazen Street, Montana",
+  "email": "lewandowskibrojr2@gmail.com",
   "dateOfBirth": "1988-11-11",
-  "registeredDate": "2023-09-21"
+  "registeredDate": "2022-09-21"
 }
 ###

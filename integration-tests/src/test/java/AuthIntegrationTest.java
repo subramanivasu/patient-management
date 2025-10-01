@@ -53,7 +53,7 @@ public class AuthIntegrationTest {
                 .then()
                 .statusCode(401);
 
-        
+
 
     }
 
